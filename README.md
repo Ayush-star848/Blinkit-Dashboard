@@ -1,20 +1,24 @@
-Blinkit Sales & Outlet Performance Dashboard
-This project showcases a data-driven dashboard built in Power BI to analyze sales trends and outlet performance for Blinkit, a leading online grocery delivery platform. The dashboard enables users to interactively explore factors impacting sales and customer engagement.
+## 🛒 Blinkit Sales & Outlet Performance Dashboard
 
-🚀 Features
-Filters to analyze performance by outlet size, city tier, item type, and fat content
+This dashboard analyzes sales performance and customer behavior for Blinkit, focusing on outlet efficiency, item popularity, and regional sales distribution.
 
-Visualizations for average ratings, sales count, and item visibility
+### 🚀 Features
+- Filters for outlet size, tier, item type, and fat content
+- Sales distribution and count trends by category and outlet
+- Insights into item ratings and visibility patterns
 
-Comparative charts highlighting outlet efficiency and product distribution
+### 🧰 Tools & Technologies
+- Power BI  
+- Excel  
+- DAX  
 
-🧰 Tools & Technologies
-Power BI
+### 📎 Project Files
+- `Blinkit_Dashboard.pbix` – Power BI dashboard file  
+- `Blinkit_data.xlsx` – Dataset for sales and item metadata  
 
-Excel
+You can open the `.pbix` file using [Power BI Desktop]
 
-DAX
+---
 
-📎 Project File
-The .pbix file and relevant Excel dataset are included in this repository.
-You can view the dashboard using Power BI Desktop.
+## 📂 License
+This project is for academic and portfolio purposes only.
